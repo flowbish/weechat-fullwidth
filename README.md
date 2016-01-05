@@ -1,7 +1,7 @@
-An awfully useless weechat plugin. Fullwdith text!
+An awfully useless weechat plugin. Fullwidth text!
 -----------
 
-## Installing
+### Installing
 
 1. Copy/symlink script as `~/.weechat/python/fullwidth.py`
 3. Run `/script load fullwidth.py` in weechat
@@ -11,7 +11,7 @@ Optional:
 
 Symlink into `~/.weechat/python/autoload` to load automatically.
 
-## Using fullwidth.py
+### Using fullwidth.py
 
 Simply use the command like so:
 
